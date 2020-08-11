@@ -5,7 +5,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-Its is a simple ReactJS project based one ReactJS framework that will that allow user to login and based on the credentials show user specific content (Curretnly only one user present). Content includes images, text message and also should have capability to load the messages as and when the scroll down the page.
+Its is a simple ReactJS project based one ReactJS framework that will that allow user to login and based on the credentials show user specific content (Currently only one user present). Content includes images, text message and also should have capability to load the messages as and when the scroll down the page.
 
 ## Basic Login Screen
 
