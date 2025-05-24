@@ -46,7 +46,7 @@ class Login extends Component {
       password === this.props.login.password
     ) {
       alert("Login Successful");
-      this.props.history.push("/dashboard");
+      window.location.href = "/dashboard";
     } else alert("please check credential");
   };
 

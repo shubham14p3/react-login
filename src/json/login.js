@@ -1,4 +1,4 @@
 export const login = {
-  username: 'shubham@gmail.com',
-  password: 'shubham123',
+  username: 'suraj',
+  password: 'suraj',
 };
